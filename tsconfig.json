@@ -8,20 +8,6 @@
     ],
     "verbatimModuleSyntax": true,
     "baseUrl": "/Users/lucamorricone/Workspace/toLearn/experiments/astro-blog-tutorial",
-    "paths": {
-      "@components/*": [
-        "src/components/*"
-      ],
-      "@layouts/*": [
-        "src/layouts/*"
-      ],
-      "@scripts/*": [
-        "src/scripts/*"
-      ],
-      "@styles/*": [
-        "src/styles/*"
-      ]
-    },
     "jsx": "react-jsx",
     "jsxImportSource": "react"
   }
